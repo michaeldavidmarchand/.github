@@ -1,9 +1,9 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/marchandmd/hockey_predictions_organization/pull/73 -->
+<!-- Improved compatibility of back to top link: See: https://github.com/marchandmd/hockey_predictions_backend/pull/73 -->
 
 <a name="readme-top"></a>
 
 <!--
-*** Thanks for checking out the hockey_predictions_organization. If you have a suggestion
+*** Thanks for checking out the hockey_predictions_backend. If you have a suggestion
 *** that would make this better, please fork the repo and create a pull request
 *** or simply open an issue with the tag "enhancement".
 *** Don't forget to give the project a star!
@@ -40,11 +40,11 @@
     <a href="https://github.com/marchandmd/hockey_predictions_organization"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <!-- <a href="https://github.com/marchandmd/hockey_predictions_organization">View Demo</a> -->
+    <!-- <a href="https://github.com/marchandmd/hockey_predictions_backend">View Demo</a> -->
     ·
-    <a href="https://github.com/marchandmd/hockey_predictions_organization/issues">Report Bug</a>
+    <a href="https://github.com/marchandmd/hockey_predictions_backend/issues">Report Bug</a>
     ·
-    <a href="https://github.com/marchandmd/hockey_predictions_organization/issues">Request Feature</a>
+    <a href="https://github.com/marchandmd/hockey_predictions_backend/issues">Request Feature</a>
   </p>
 </div>
 
@@ -105,7 +105,7 @@ rails v 5.2.8
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/marchandmd/hockey_predictions_organization.git
+    git clone https://github.com/marchandmd/hockey_predictions_backend.git
     ```
 2. Install packages
     ```sh
@@ -128,7 +128,7 @@ This application will be live. Stay tuned.
 
 - [ ] establish connection with NHL through a service, and expose the list of games for the current calendar day
 
-See the [open issues](https://github.com/marchandmd/hockey_predictions_organization/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/marchandmd/hockey_predictions_backend/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -163,7 +163,7 @@ MIT
 
 Michael Marchand - MichaelDavidMarchand@gmail.com
 
-Project Link: [https://github.com/MarchandMD/hockey_predictions_organization](https://github.com/marchandmd/hockey_predictions_organization)
+Project Link: [https://github.com/MarchandMD/hockey_predictions_backend](https://github.com/marchandmd/hockey_predictions_backend)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -184,16 +184,16 @@ Use this space to list resources you find helpful and would like to give credit 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/marchandmd/hockey_predictions_organization.svg?style=for-the-badge
-[contributors-url]: https://github.com/marchandmd/hockey_predictions_organization/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/marchandmd/hockey_predictions_organization.svg?style=for-the-badge
-[forks-url]: https://github.com/marchandmd/hockey_predictions_organization/network/members
-[stars-shield]: https://img.shields.io/github/stars/marchandmd/hockey_predictions_organization.svg?style=for-the-badge
-[stars-url]: https://github.com/marchandmd/hockey_predictions_organization/stargazers
-[issues-shield]: https://img.shields.io/github/issues/marchandmd/hockey_predictions_organization.svg?style=for-the-badge
-[issues-url]: https://github.com/marchandmd/hockey_predictions_organization/issues
-[license-shield]: https://img.shields.io/github/license/marchandmd/hockey_predictions_organization.svg?style=for-the-badge
-[license-url]: https://github.com/marchandmd/hockey_predictions_organization/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/marchandmd/hockey_predictions_backend.svg?style=for-the-badge
+[contributors-url]: https://github.com/marchandmd/hockey_predictions_backend/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/marchandmd/hockey_predictions_backend.svg?style=for-the-badge
+[forks-url]: https://github.com/marchandmd/hockey_predictions_backend/network/members
+[stars-shield]: https://img.shields.io/github/stars/marchandmd/hockey_predictions_backend.svg?style=for-the-badge
+[stars-url]: https://github.com/marchandmd/hockey_predictions_backend/stargazers
+[issues-shield]: https://img.shields.io/github/issues/marchandmd/hockey_predictions_backend.svg?style=for-the-badge
+[issues-url]: https://github.com/marchandmd/hockey_predictions_backend/issues
+[license-shield]: https://img.shields.io/github/license/marchandmd/hockey_predictions_backend.svg?style=for-the-badge
+[license-url]: https://github.com/marchandmd/hockey_predictions_backend/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/marchandmd1
 [product-screenshot]: images/screenshot.png
