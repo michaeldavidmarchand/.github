@@ -33,8 +33,6 @@
   <h1 align="center">hockey_predictions_organization</h1>
 
   <p align="center">
-  API only Rails application built to supply information from NHL API to front end via RESTful conventions using a Service-Oriented Architecture.
-<br />
     Organization of Full-stack Rails app consuming data from the NHL API and exposing the data to a front end; UI is also created with Rails, built via a Service-Oriented Architecture
     <br />
     <a href="https://github.com/marchandmd/hockey_predictions_organization"><strong>Explore the docs »</strong></a>
